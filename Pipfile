@@ -23,6 +23,7 @@ black = "*"
 isort = "*"
 mypy = "*"
 jupyter = "*"
+sweetviz = "*"
 
 [requires]
 python_version = "3.9"
